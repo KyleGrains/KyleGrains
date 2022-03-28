@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KyleGrains
 - 👀 I’m writing C++
-- 🌱 I wrote C and JavaScript at work before
-- 💞️ I'm coding in Linux environment, and embedded/Windows before
 - 📫 My mail address: kyle.grains@gmail.com (A dot between kyle and grains)
 
 <!---

@@ -13,9 +13,8 @@ and local AI workflows.
 
 ## Selected Work
 
-- **PCAP media extraction** - local FFmpeg + Wireshark work for extracting RTP/RTSP, RTMP, HTTP-FLV, HLS, MPEG-DASH, and MPEG-TS media from packet captures, including RTP payload handling for common VoIP/audio codecs and H.263/H.264/H.265 video.
+- [PCAP media extraction](pcap-media-extraction.md) - local FFmpeg + Wireshark work for extracting RTP/RTSP, RTMP, HTTP-FLV, HLS, MPEG-DASH, and MPEG-TS media from packet captures, including RTP payload handling for common VoIP/audio codecs and H.263/H.264/H.265 video.
 - [bytepet](https://github.com/KyleGrains/bytepet) - a terminal digital pet with persistent state and autonomous behavior.
-- [configs](https://github.com/KyleGrains/configs) - personal Linux, editor, terminal, and Codex configuration.
 - `noveltech` - a local prototype for reading a technical book and a public-domain novel in parallel.
 
 ## Working Notes
